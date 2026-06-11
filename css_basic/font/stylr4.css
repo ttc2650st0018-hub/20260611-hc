@@ -1,0 +1,11 @@
+@charset "utf-8";
+body {
+    font-size: 24px;
+    
+}
+div {
+    font-size: 30px;
+}
+h1 {
+    font-size: 3em;
+}

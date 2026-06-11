@@ -1,0 +1,15 @@
+@charset "utf-8";
+h1 {
+    font-size: 90px;
+    color: rgb(0,0,0);
+    line-height: 0%;
+}
+h2 {
+    font-size: 3em;
+    line-height: 50%;
+    
+}
+p {
+    font-size: 1.5em;
+    line-height: 0%;
+}
